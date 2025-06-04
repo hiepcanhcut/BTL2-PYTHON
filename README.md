@@ -8,7 +8,7 @@
 📄 Báo-cáo.pdf # Báo cáo tổng hợp kết quả bài tập lớn
 
 📁 SourceCode/  
-📁 CNN_Res/ # Kết quả huấn luyện: Loss Curve, Accuracy Curve, Confusion Matrix
+📁 CNN_Res/ # Kết quả huấn luyện: Loss Curve, Accuracy Curve, Confusion Matrix  
 📁 CNN_Code/ # Code
 
 📄 README.md # File mô tả dự án
