@@ -9,6 +9,7 @@
 
 📁 SourceCode/  
 📁 CNN_Res/ # Kết quả huấn luyện: Loss Curve, Accuracy Curve, Confusion Matrix
+📁 CNN_Code/ # Code
 
 📄 README.md # File mô tả dự án
 
