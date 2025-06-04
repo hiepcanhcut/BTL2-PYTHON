@@ -5,7 +5,7 @@
 ## 📑 Mục lục
 
 📁 Report/  
-📄 BAITAPLON-2-PYTHON.pdf # Báo cáo tổng hợp kết quả bài tập lớn
+📄 Báo-cáo.pdf # Báo cáo tổng hợp kết quả bài tập lớn
 
 📁 SourceCode/  
 📁 CNN_Res/ # Kết quả huấn luyện: Loss Curve, Accuracy Curve, Confusion Matrix
